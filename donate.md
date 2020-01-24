@@ -21,29 +21,29 @@ title: Donate
 }
 </style>
 
-<img id="self-photo" src="/sindre-sorhus-small.jpg" align="right">
+<img id="self-photo" src="/potoku.jpg" align="right">
 
 # Donate ❤️
 
-<p class="tagline">I'm a full-time open-sourcerer and <a href="https://twitter.com/sindresorhus/status/963478258808340482">my work is funded by the community.</a></p>
+<p class="tagline">I'm a full-time open-sourcerer and <a href="https://twitter.com/vianziro">my work is funded by the community.</a></p>
 
-[Read more about me and what I do.](https://www.patreon.com/sindresorhus)
+[Read more about me and what I do.](https://www.patreon.com/vianziro)
 
-If you or your company are using any of my projects, consider supporting me so I can continue [my open source work](https://github.com/sindresorhus).
+If you or your company are using any of my projects, consider supporting me so I can continue [my open source work](https://github.com/vianziro).
 
 ### Monthly donations
 
-- [**GitHub Sponsors**](https://github.com/sponsors/sindresorhus)
-- [Open Collective](https://opencollective.com/sindresorhus)
-- [Patreon](https://www.patreon.com/sindresorhus)
+- [**GitHub Sponsors**](https://github.com/sponsors/vianziro)
+- [Open Collective](https://opencollective.com/vianziro)
+- [Patreon](https://www.patreon.com/vianziro)
 
 ### One-time donations
 
-- [My PayPal](https://www.paypal.me/sindresorhus)
-- [BuyMeACoffee.com](https://www.buymeacoffee.com/sindresorhus)
-- [Open Collective](https://opencollective.com/sindresorhus)
-- [Donorbox](https://donorbox.org/sindresorhus)
-- [tippin.me](https://tippin.me/@sindresorhus) <small>(Tip with BTC through the Lightning Network)</small>
+- [My PayPal](https://www.paypal.me/vianziro)
+- [BuyMeACoffee.com](https://www.buymeacoffee.com/vianziro)
+- [Open Collective](https://opencollective.com/vianziro)
+- [Donorbox](https://donorbox.org/vianziro)
+- [tippin.me](https://tippin.me/@vianziro) <small>(Tip with BTC through the Lightning Network)</small>
 - Bitcoin (BTC): `18h9q67KByyEWb7cAQbq8fDSZJqF4aeVMY`
 - Litecoin (LTC): `LZTqq2KdLzD1xKXEPrEmRXSVrJwsT9VsJ1`
 - Ethereum (ETH): `0xc55d3d86Fb9E52613EFD7156DDd9eff8a1e6C199`
@@ -52,7 +52,7 @@ If you or your company are using any of my projects, consider supporting me so I
 
 You can also support me by buying my apps.
 
-- [Dato](https://sindresorhus.com/dato)
-- [Lungo](https://sindresorhus.com/lungo)
-- [Battery Indicator](https://sindresorhus.com/battery-indicator)
-- [Black Out](https://sindresorhus.com/black-out)
+- [Dato](https://vianziro.com/dato)
+- [Lungo](https://vianziro.com/lungo)
+- [Battery Indicator](https://vianziro.com/battery-indicator)
+- [Black Out](https://vianziro.com/black-out)

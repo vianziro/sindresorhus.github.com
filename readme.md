@@ -4,7 +4,7 @@
 
 *The website targets the latest version of Chrome, Safari, and Firefox.*
 
-<a href="https://sindresorhus.com">
+<a href="https://vianziro.com">
 	<img src="screenshot.jpg" width="600">
 </a>
 
@@ -18,4 +18,4 @@ $ ./start.sh
 
 ## License
 
-MIT © [Sindre Sorhus](https://sindresorhus.com)
+MIT © [Sindre Sorhus](https://vianziro.com)

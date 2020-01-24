@@ -19,8 +19,8 @@ const insertHypenationHintsForCamelCase = string => string.replace(/([a-z])([A-Z
 
 // Latest GitHub commit
 (async () => {
-	const username = 'sindresorhus';
-	const email = 'sindresorhus@gmail.com';
+	const username = 'vianziro';
+	const email = 'vianziro@gmail.com';
 
 	const response = await fetch(`https://api.github.com/users/${username}/events/public`);
 	const json = await response.json();
